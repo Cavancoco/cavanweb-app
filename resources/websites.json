@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ws01",
+    "logo_url": "resources/avatars/01.jpg",
+    "name": "Cavan County Council",
+    "url": "http://www.cavancoco.ie/",
+    "status": "Active",
+    "description": "We will lead and promote the economic, social and cultural development of our County, build confidence in our future, improve quality of life for our citizens and promote a more sustainable and inclusive society. In delivering our services, we will ensure best possible value for money and will be accountable for our actions."
+  },
+  {
+    "id": "ws02",
+    "logo_url": "resources/avatars/02.jpg",
+    "name": "Cavan Arts",
+    "url": "http://www.cavanarts.ie",
+    "status": "Active",
+    "description": "Cavan County Council Arts Office is funded by the Arts Council and Cavan County Council."
+  }
+]

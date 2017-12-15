@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "avatar_url": "resources/avatars/01.jpg",
+    "name": "Cavan County Council",
+    "title": "http://www.cavancoco.ie/",
+    "company": "Active",
+    "bio": "We will lead and promote the economic, social and cultural development of our County, build confidence in our future, improve quality of life for our citizens and promote a more sustainable and inclusive society. In delivering our services, we will ensure best possible value for money and will be accountable for our actions.",
+    "sessions": ["ws01", "ws02"]
+  }
+]
