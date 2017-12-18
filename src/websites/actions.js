@@ -39,12 +39,11 @@ export function loadWebsite(id) {
     }
 }
 
-let nextWebsiteId = 0
+
 export function addWebsite() {
   return {
     type: 'ADD_WEBSITE',
-    id: nextWebsiteId++,
-    name
-  }
-	
+    id: "ws03",
+	  name
+  }	
 }
